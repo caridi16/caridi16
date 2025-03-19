@@ -1,0 +1,34 @@
+
+    
+    *{font-family: 'Times New Roman', Times, serif, Verdana, sans-serif;
+    color: #000000;
+    text-align: center;}
+
+    body {width: 960px;
+    margin: 0 auto;
+    background-color: #9abdeb}
+
+    nav { background-color: grey;
+        color: #9abdeb;
+        font-size: larger;}
+    
+
+    #content {overflow: auto;
+    height: 100%;}
+
+    article {
+    background-color: azure;
+    padding: 20 px;
+    float: left;
+    margin: 10px;
+    width: 300px; 
+    text-align: center;}
+
+    dt {font-weight: bold;
+    font-size: larger;
+    color: #00367d;}
+
+
+
+   
+    
